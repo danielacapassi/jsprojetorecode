@@ -1,1 +1,1 @@
-Projeto Recode Full Stack Eletro finalizado ( HTML-CSS-JS)
+Primeiro projeto Recode Full Stack Eletro finalizado (HTML-CSS-JS). 
